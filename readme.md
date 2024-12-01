@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Shadcn + tailwind css
 
 This template sets up a minimal React project using Vite for fast development and a modern build process.
 
